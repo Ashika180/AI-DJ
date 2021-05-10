@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#note{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.div_speed{
+float: left;
+}
+
+.disk{
+    border-radius: 100px;
+    width: 200px;
+}
+
+.note2{
+    font-size: 20px;
+    font-family: comic sans ms;
+}
+
+.div_volume{
+    float: right;
+}
+
+canvas{
+    border: double 3px  white;
+    box-shadow: 5px 5px 18px rgb(163, 161, 161);
+}
+
+#play, #stop{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
